@@ -1,0 +1,25 @@
+SEK     100
+
+NOK                 140
+USD     950
+EUR         1086
+NOK
+103
+PUND    1245
+FRANC 1108
+AUD     707
+BRL 210
+HKD     139
+INR 13
+ISK         8
+CAD     804
+CNY      153
+MAD   100
+MXN
+54
+
+NZD  625
+
+PLN     225
+RUB     9
+SAR 290
