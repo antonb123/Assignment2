@@ -36,7 +36,6 @@ int main()
     {
         strcpy(values[i].name, field);
         values[i].value = atoi(field_int);
-        //printf("%s\t%d\n", values[i].name, values[i].values);
 
         i++;
     }
